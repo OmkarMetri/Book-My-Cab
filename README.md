@@ -4,6 +4,9 @@ Client Server Architecture
 ## Project Description
 It is an application to book cabs which provides two options, i.e, shared cabs and mini cabs. 
 
+## Requirements
+Python Tkinter
+
 ## Execution
 1) Run server.py 
 2) Run client.py 
